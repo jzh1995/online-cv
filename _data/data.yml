@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: 791847803@11.com
     phone: 
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: 
+    github: jzh1995
     gitlab:
     bitbucket:
     twitter: 
@@ -35,13 +35,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
-      - item: Cooking
+      - item: Data Analysis
         link:
 
 career-profile:
